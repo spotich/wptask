@@ -1,0 +1,39 @@
+/*
+Theme Name:     My Theme
+Template:       twentytwentythree
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wdth,wght@8..144,151,501&display=swap');
+
+body {
+    background-color: #3A3F47;
+}
+
+h1,
+.wp-block-heading {
+    font-family: Roboto Flex, sans-serif;
+    font-weight: 501;
+    font-stretch: expanded;
+    font-size: 90px;
+    opacity: 0.9;
+    color: #9DFF20;
+}
+
+.wp-block-button__link {
+    background-color: #9DFF20;
+    border-radius: 30px;
+    border: none;
+}
+
+.wp-block-button :hover {
+    background-color: #88dc1d;
+    border-radius: 30px;
+    border: none;
+}
+
+textarea {
+    background-color: #5c606c;
+    color: #E8EAED;
+    border-radius: 10px;
+    border: none;
+}
