@@ -25,7 +25,20 @@
   "require": {
     "php": ">=7.0.0",
     "ext-json": "*",
-    "wpackagist-plugin/gutenberg": "^16.5"
+    "wpackagist-plugin/gutenberg": "^16.5",
+    "yoast/wordpress-seo": "^21.1",
+    "wpackagist-plugin/contact-form-7": "^5.8",
+    "wpackagist-plugin/wordfence": "^7.10",
+    "wpackagist-plugin/woocommerce": "^8.0",
+    "wpackagist-plugin/akismet": "^5.2",
+    "wpackagist-plugin/redirection": "^5.3",
+    "wpackagist-plugin/duplicate-page": "^4.5",
+    "wpackagist-plugin/disable-comments": "^2.4",
+    "wpackagist-plugin/w3-total-cache": "^2.4",
+    "wpackagist-plugin/ewww-image-optimizer": "^7.2",
+    "wpackagist-plugin/advanced-custom-fields": "^6.2",
+    "wpackagist-plugin/wp-optimize": "^3.2",
+    "wpackagist-plugin/sendpress": "1.22.3.31"
   },
   "provide": {
     "wordpress/core-implementation": "6.3.1"
